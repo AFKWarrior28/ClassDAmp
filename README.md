@@ -4,5 +4,5 @@ Class-D Amplifier soldering and electronics exercise at the University of Waterl
 
 
 # Softwares
-All PCB design is conducted using the free software KiCAD.
-https://github.com/KiCad
+All PCB design is conducted using the free software [KiCAD](https://github.com/KiCad).
+
