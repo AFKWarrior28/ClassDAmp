@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Class D")(type "KiCad")(uri "${KIPRJMOD}/KiCad Assets/footprints/ClassD.pretty")(options "")(descr ""))
-)
