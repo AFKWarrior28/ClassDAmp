@@ -1,12 +1,18 @@
 # ClassDAmp
-Class-D Amplifier soldering and electronics exercise at the University of Waterloo, Department of Physics.
+Class-D Amplifier soldering and electronics exercise at the University of Waterloo, Department of Physics and Astronomy.  
+
+In order to recieve a kit, you must complete the Science Resource Shop Orientation course (self-register on LEARN). Once that is complete, please email me at j6hao@uwaterloo.ca to arrange for a kit pickup.  
+
+# Science Resource Shop
+The [Science Resource Shop](https://uwaterloo.ca/science-technical-services/about-science-technical-services/science-resource-shop) is located in the room PHY135. Besides soldering, they offer a wide array of tools and machines such as lathes, mills, bandsaws, and 3D printers. I highly recommend exploring the various tools offered to create a unique housing for your speaker and PCB. A sample 3D design is included in this repository, and I encourage you to improve upon my design.
 
 
-
-# Softwares
-All PCB design is conducted using the free software KiCAD.
-
+# PCB Design
+All PCB design is conducted using the free software [KiCAD](https://www.kicad.org). All final design files for the PCB are included in this repository, and I encourage you to explore them and improve upon my design.
 
 
-# 3D Printing
-The speaker boxes are designed to share the same back. The back can be mounted on the box using magnets, but the tolerances allow for a good friction fit. Included in the design are sockets for 4x 8-32 heated inserts for mounting the speaker and 3x 4-40 or M3 set screws for mounting the PCB.
+# Speaker Housing
+The speaker boxes are designed to share the same back. The back can be mounted on the box using magnets, but the tolerances allow for a good friction fit. Included in the design are sockets for 4x 8-32 heat-set inserts for mounting the speaker and 3x 4-40 or M3 set screws for mounting the PCB. The 3 mounting holes on the PCB are sized for M3 but are also compatable with 4-40 fittings.
+
+# Custom Development Area
+The custom development area included on the ClassDAmp PCB is an area for you to explore and create. Before soldering components to the PCB, it is recommended that you test your circuit on a breadboard. After building on the custom development area, use an external power supply (not USB-C!) to check the functionality of your ciruit to prevent any damage to your power supply in the event of a short circuit.
