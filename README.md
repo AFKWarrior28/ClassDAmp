@@ -6,6 +6,10 @@ In order to recieve a kit, you must complete the Science Resource Shop Orientati
 # Science Resource Shop
 The [Science Resource Shop](https://uwaterloo.ca/science-technical-services/about-science-technical-services/science-resource-shop) is located in the room PHY135. Besides soldering, they offer a wide array of tools and machines such as lathes, mills, bandsaws, and 3D printers. I highly recommend exploring the various tools offered to create a unique housing for your speaker and PCB. A sample 3D design is included in this repository, and I encourage you to improve upon my design.
 
+# Instructional Videos
+
+[Here](https://youtube.com/playlist?list=PLA1I_6hQhSNaFf6GUz-gZa_wceobiq_6l&si=VTzpREcftJKnDZTa) is a playlist of instructional videos that I am making for this project. There is important info in the description of each video, so please watch them as needed and read carefully! It's my first time making videos like this, so please excuse the horrible production value :3 
+
 
 # PCB Design
 All PCB design is conducted using the free software [KiCAD](https://www.kicad.org). All final design files for the PCB are included in this repository, and I encourage you to explore them and improve upon my design.
@@ -18,3 +22,4 @@ The speaker boxes are designed to share the same back. The back can be mounted o
 The custom development area included on the ClassDAmp PCB is an area for you to explore and create. Before soldering components to the PCB, it is recommended that you test your circuit on a breadboard. After building on the custom development area, use an external power supply (not USB-C!) to check the functionality of your circuit to prevent any damage to your power supply in the event of a short circuit.  
 
 The USB-C power supply is designed to be able to provide 5VDC with a maximum current draw of 3A. Always check the specification of your power supply and make sure it can supply the necessary current. If your circuit requires more power you will have to create your own power supply.
+
