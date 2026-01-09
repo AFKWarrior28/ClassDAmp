@@ -1,7 +1,10 @@
 # ClassDAmp
 Class-D Amplifier soldering and electronics exercise at the University of Waterloo, Department of Physics and Astronomy. Kits are available for free to members of the University of Waterloo community, including staff and faculty. All we ask for is a willingness to learn and explore the amazing world of electronics!
 
+A class-D amplifier is a type of audio amplifier that works by turning an analog (continuous) audio signal into a digital (either on or off) signal, amplifying it, then converting it back into an analog signal for speakers to play. Essentially, it's what allows computers and phones to power large speakers. In this project, you will learn the basics of soldering and electronic components while building your very own amplifier combo!
+
 In order to recieve a kit, you must complete the Science Resource Shop Orientation course (self-register on LEARN). Once that is complete, please email me at j6hao@uwaterloo.ca to arrange for a kit pickup.  
+
 
 # Science Resource Shop
 The [Science Resource Shop](https://uwaterloo.ca/science-technical-services/about-science-technical-services/science-resource-shop) is located in the room PHY135. Besides soldering, they offer a wide array of tools and machines such as lathes, mills, bandsaws, and 3D printers. I highly recommend exploring the various tools offered to create a unique housing for your speaker and PCB. A sample 3D design is included in this repository, and I encourage you to improve upon my design.
