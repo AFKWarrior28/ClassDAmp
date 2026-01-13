@@ -13,6 +13,8 @@ The [Science Resource Shop](https://uwaterloo.ca/science-technical-services/abou
 
 [Here](https://youtube.com/playlist?list=PLA1I_6hQhSNaFf6GUz-gZa_wceobiq_6l&si=VTzpREcftJKnDZTa) is a playlist of instructional videos that I am making for this project. There is important info in the description of each video, so please watch them as needed and read carefully! It's my first time making videos like this, so please excuse the horrible production value :3 
 
+UPDATE: More videos are still coming out! The original set of videos will be updated with voiceover versions as well to try and combat the sound issue. Should be available by the end of the week (16/01/26)
+
 
 # PCB Design
 All PCB design is conducted using the free software [KiCAD](https://www.kicad.org). All final design files for the PCB are included in this repository, and I encourage you to explore them and improve upon my design.
