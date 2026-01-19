@@ -3,6 +3,9 @@ Class-D Amplifier soldering and electronics exercise at the University of Waterl
 
 A class-D amplifier is a type of audio amplifier that works by turning an analog (continuous) audio signal into a digital (either on or off) signal, amplifying it, then converting it back into an analog signal for speakers to play. Essentially, it's what allows computers and phones to power large speakers. In this project, you will learn the basics of soldering and electronic components while building your very own amplifier-speaker combo!
 
+![PCB Final](https://github.com/user-attachments/assets/a87f4388-1d40-4260-8941-583ed1daa637)
+
+
 In order to recieve a kit, you must complete the Science Resource Shop Orientation course (self-register on LEARN). Once that is complete, please email me at j6hao@uwaterloo.ca to arrange for a kit pickup.  
 
 
