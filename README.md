@@ -12,6 +12,8 @@ In order to recieve a kit, you must complete the Science Resource Shop Orientati
 # Science Resource Shop
 The [Science Resource Shop](https://uwaterloo.ca/science-technical-services/about-science-technical-services/science-resource-shop) is located in the room PHY135. Besides soldering, they offer a wide array of tools and machines such as lathes, mills, bandsaws, and 3D printers. I highly recommend exploring the various tools offered to create a unique housing for your speaker and PCB. A sample 3D design is included in this repository, and I encourage you to improve upon my design.
 
+On Fridays from 1pm to 3pm, I am available for soldering help in the Science Resource Shop. Please E-Mail me 24 hours in advance if you require any help with putting together your kit!
+
 # Instructional Videos
 
 [Here](https://youtube.com/playlist?list=PLA1I_6hQhSNaFf6GUz-gZa_wceobiq_6l&si=VTzpREcftJKnDZTa) is a playlist of instructional videos that I am making for this project. There is important info in the description of each video, so please watch them as needed and read carefully! It's my first time making videos like this, so please excuse the horrible production value :3 
