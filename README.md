@@ -16,7 +16,7 @@ On Fridays from 1pm to 3pm, I am available for soldering help in the Science Res
 
 # Instructional Videos
 
-[Here](https://youtube.com/playlist?list=PLA1I_6hQhSNaFf6GUz-gZa_wceobiq_6l&si=VTzpREcftJKnDZTa) is a playlist of instructional videos that I am making for this project. There is important info in the description of each video, so please watch them as needed and read carefully! It's my first time making videos like this, so please excuse the horrible production value :3 
+[Here](https://youtube.com/playlist?list=PLA1I_6hQhSNaFf6GUz-gZa_wceobiq_6l&si=VTzpREcftJKnDZTa) is a playlist of instructional videos that I am making for this project. There is important info in the description of each video, so please watch them as needed and read carefully! It's my first time making videos like this, so please excuse the production value :3 
 
 UPDATE: More videos are still coming out! The original set of videos will be updated with voiceover versions as well to try and combat the sound issue. Should be available by the end of the week (30/01/26)
 
