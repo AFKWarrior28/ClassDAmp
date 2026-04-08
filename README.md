@@ -27,6 +27,8 @@ All PCB design is conducted using the free software [KiCAD](https://www.kicad.or
 # Speaker Housing
 The speaker boxes are designed to share the same back. The back can be mounted on the box using magnets, but the tolerances allow for a good friction fit. Included in the design are sockets for 4x 8-32 heat-set inserts for mounting the speaker and 3x 4-40 or M3 set screws for mounting the PCB. The 3 mounting holes on the PCB are sized for M3 but are also compatable with 4-40 fittings.
 
+The PCB's mounting holes are placed as follows, relative to the bottom left corner of the PCB: (5, 50)mm, (170, 95)mm, (170, 10)mm.
+
 # Custom Development Area
 The custom development area included on the ClassDAmp PCB is an area for you to explore and create. Before soldering components to the PCB, it is recommended that you test your circuit on a breadboard. After building on the custom development area, use an external power supply (not USB-C!) to check the functionality of your circuit to prevent any damage to your power supply in the event of a short circuit.  
 
